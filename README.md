@@ -78,7 +78,7 @@ User Authentication
 ## FRONTEND
 1. Fork the repository.
 2. Clone the repository
-3. git clone https://github.com/ujjwaljain13/Trekking-Tech-Frontend.git
+3. git clone https://github.com/HiRoaR2002/Trekking-Tech-Frontend.git
 4. Open the folder in which you cloned the repository.
 5. Open all the files in your code editor
 6. Open index.html to go to the landing page of the website.
@@ -86,12 +86,12 @@ User Authentication
 ## BACKEND
 1. Fork the repository.
 2. Clone the repository
-3. git clone https://github.com/ujjwaljain13/Trekking-Tech-Backend.git
+3. git clone https://github.com/HiRoaR2002/Trekking-Tech-Backend.git
 4. Open the folder in which you cloned the repository.
 5. Run this command to install all the packages (npm install)
 6. Create a new .env file to store required enviorment variables.
 7. Create your own secret key to hash and salt passwords and store it in SECRET_KEY in your .env file.
-8. Create your own PostgresSQL Database locally or on ElephantSQL.
+8. Create your own PostgresSQL Database locally or on ElephantSQL. All the PSQL queries are present in database folder.
 9. Once hosted add the hosted URL in DB_URL in your .env file.
 10. Now on your terminal run this command to start your server (npm run)
 
